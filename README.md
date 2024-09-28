@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lucas <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-  <h3 align="center">Apasionado por JAVA y desarrolador 'back end' de Argentina(Mar del Plata)</h3>
+  <h3 align="center">Apasionado por JAVA y desarrollador 'back end' de Argentina(Mar del Plata)</h3>
 
 - 🔭 Estudio en la Universidad Tecnologica Nacional (UTN). 
 
