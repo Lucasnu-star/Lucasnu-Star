@@ -9,7 +9,7 @@
 
 - 💬 Me gusta mucho el trabajo en equipo, me siento comodo, me gusta opinar y escuchar posiciones de los demas.
 
-- ⚡ En mis tiempos libres me gusta jugar, escuchar musica y juegar con mis perritos.
+- ⚡ En mis tiempos libres me gusta jugar y escuchar musica.
 
 <h3 align="center">Conectate conmigo desde:</h3>
 <div align="center">
