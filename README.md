@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋, soy Lucas <img height="40" src="https://i.gifer.com/7VE.gif" alt="coffee"></h1>
+<h1 align="center">Hola 👋, soy Lucas <img height="40" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding"></h1>
+<h3 align="center">Escribiendo código y tomando mate 😎</h3>
   <h3 align="center">Apasionado por JAVA y desarrollador 'back end' de Argentina (Mar del Plata)</h3>
 
 - 🔭 Estudio en la Universidad Tecnologica Nacional (UTN). 
