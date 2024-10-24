@@ -1,16 +1,17 @@
 <h1 align="center">Hola 👋, soy Lucas <img height="40" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding"></h1>
-<h3 align="center">Escribiendo código y tomando mate 😎</h3>
-  <h3 align="center">Apasionado por JAVA y desarrollador 'back end' de Argentina (Mar del Plata)</h3>
 
-- 🔭 Estudio en la Universidad Tecnologica Nacional (UTN). 
-
-- 🌱 Soy un apasionado por el Back End, estoy realizando un curso de SpringBoot.
-
-- 👯 Busco nuevos desafios y gente que quiera realizar proyectos innovadores.
-
-- 💬 Me gusta mucho el trabajo en equipo, me siento comodo, me gusta opinar y escuchar posiciones de los demas.
-
-- ⚡ En mis tiempos libres me gusta jugar y escuchar musica.
+// Codigo Lucas🤖:
+public class LucasDev {
+    String[] technologies = {"Web", "Desktop"};
+    String[] code = {"CSS", "SASS", "JavaScript", "SQL", "ReactNative", "Tailwind", "C" , "HTML" , "SpringBoot" , "Java"};
+    String[] tools = {"Intellij", "GitHub", "Visual", "Git"};
+    
+    public static void main(String[] args) {
+        LucasDev lucas = new LucasDev();
+        
+        System.out.println("Technologies: " + String.join(", ", lucas.technologies));
+    }
+}
 
 <h3 align="center">Conectate conmigo desde:</h3>
 <div align="center">
