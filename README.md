@@ -2,14 +2,10 @@
 
 // Codigo Lucas🤖:
 public class LucasDev {
-    String[] technologies = {"Web", "Desktop"};
-    String[] code = {"CSS", "SASS", "JavaScript", "SQL", "ReactNative", "Tailwind", "C" , "HTML" , "SpringBoot" , "Java"};
-    String[] tools = {"Intellij", "GitHub", "Visual", "Git"};
-    
     public static void main(String[] args) {
-        LucasDev lucas = new LucasDev();
-        
-        System.out.println("Technologies: " + String.join(", ", lucas.technologies));
+            String[] technologies = {"Web", "Desktop"};
+            String[] code = {"CSS", "SASS", "JavaScript", "SQL", "ReactNative", "Tailwind", "C" , "HTML" , "SpringBoot" , "Java"};
+            String[] tools = {"Intellij", "GitHub", "Visual", "Git"};
     }
 }
 
