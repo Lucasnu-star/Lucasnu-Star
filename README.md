@@ -1,14 +1,5 @@
 <h1 align="center">Hola 👋, soy Lucas <img height="40" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding"></h1>
 
-// Codigo Lucas🤖:
-public class LucasDev {
-    public static void main(String[] args) {
-            String[] technologies = {"Web", "Desktop"};
-            String[] code = {"CSS", "SASS", "JavaScript", "SQL", "ReactNative", "Tailwind", "C" , "HTML" , "SpringBoot" , "Java"};
-            String[] tools = {"Intellij", "GitHub", "Visual", "Git"};
-    }
-}
-
 <h3 align="center">Conectate conmigo desde:</h3>
 <div align="center">
 
