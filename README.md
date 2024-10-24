@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, soy Lucas <img height="40" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding"></h1>
+<h1 align="center">Hi 👋, i'm Lucas <img height="40" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding"></h1>
 
-<h3 align="center">Conectate conmigo desde:</h3>
+<h3 align="center">connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nu%C3%B1ez-602543239/)
@@ -8,7 +8,7 @@
   
 </div>
 
-<h3 align="center">Lenguajes y Herramientas:</h3>
+<h3 align="center">Skills and tools :</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
